@@ -1,3 +1,3 @@
 FROM harness/gitness
 
-ENV 80
+ENV PORT=80
